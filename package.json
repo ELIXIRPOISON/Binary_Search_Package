@@ -1,0 +1,12 @@
+{
+  "name": "rajpi-binary-search",
+  "version": "1.0.0",
+  "description": "A package providing binary search functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["binary", "search", "algorithm"],
+  "author": "Piyush Raj",
+  "license": "MIT"
+}
